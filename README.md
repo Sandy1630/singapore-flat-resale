@@ -19,14 +19,14 @@ The goal of this project is to develop a machine learning model capable of accur
 
 - Python based solution using popular libraries like Pandas, Scikit-learn, and XGBoost.
 - Data preprocessing techniques including handling missing values, encoding categorical features, and scaling numerical features.
-- Machine learning model selection (XGBoost) and evaluation using Root Mean Squared Error (RMSE).
+- Machine learning model selection (Random Forest) and evaluation using (R2 score).
 
 ## Installation
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Sandy1630/flight-price-prediction.git
+    git clone https://github.com/Sandy1630/singapore-flat-resale.git
     ```
 
 2. Install the required dependencies:
