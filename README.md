@@ -1,4 +1,4 @@
-# Flight Ticket Price Prediction
+# Singapore Flat resale Price Prediction
 
 This project aims to predict flat resale prices using machine learning techniques based on a dataset containing various features related to flats.
 
@@ -39,7 +39,7 @@ The goal of this project is to develop a machine learning model capable of accur
 
 1. Ensure you have Python installed.
 2. Navigate to the project directory.
-3. Follow the steps outlined in the `flight_ticket_prediction.ipynb` notebook or run the scripts to perform data analysis, preprocessing, model training, and evaluation.
+3. Follow the steps outlined in the `Singaopre_flat_resale.ipynb` notebook or run the scripts to perform data analysis, preprocessing, model training, and evaluation.
 
 ## Contributing
 
